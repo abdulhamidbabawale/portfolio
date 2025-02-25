@@ -25,9 +25,9 @@ function App() {
       <header className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
         <div className="container mx-auto px-6 py-24">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">Full-Stack Developer</h1>
+            <h1 className="text-4xl md:text-6xl font-bold mb-6">Abdulhamid Bababwale</h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100">
-              Building robust web applications with Django, React, Express.js, and Flask
+              Building robust web applications with Python,JavaScript/TypeScript and Java
             </p>
             <div className="flex justify-center space-x-4">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition">
